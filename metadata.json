@@ -1,0 +1,6 @@
+{
+  "name": "Central Car Repairs",
+  "description": "Established 1997 in Cape Town. RMI-registered mechanical repairs, minor & major logbook servicing, diagnostics, and on-premises Meguiar's car wash & valet at 400 Albert Road, Salt River.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
